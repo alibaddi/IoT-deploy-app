@@ -1,0 +1,13 @@
+gzip
+ssl
+paho.mqtt.client as paho
+paho.mqtt.subscribe as subscribe
+psycopg2
+paho-mqtt
+dash
+dash_bootstrap_components
+dash_iconify
+datetime
+pandas 
+plotly.graph_objs 
+dash_bootstrap_templates
